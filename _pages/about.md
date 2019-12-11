@@ -13,8 +13,8 @@ Laura Bondi
 
 I'm a PhD student in Statistics at Bocconi University in Milan, Italy. My supervisor is Professor [Marco Bonetti](http://faculty.unibocconi.it/marcobonetti/). I'm currently working on statistical models for the natural history of breast cancer, using mammography screening data.  My research interests lie in Medical Statistics and Survival Analysis, with a particular focus on Public Health Data Analysis and Cancer Research.
 
-Previously, I studied at Padua University in Italy.
-I completed a Bachelor in Mathematics which gave me a solid quantitative background. However, it was always clear to me that, despite the highly theoretical nature of the program, real world applications and data was what I enjoyed the most.
+Previously, I've studied at Padua University in Italy.
+I've completed a Bachelor in Mathematics which gave me a solid quantitative background. However, it was always clear to me that, despite the highly theoretical nature of the program, real world applications and data was what I enjoyed the most.
 The natural next step was to enroll in the Master in Statistics at the University of Padua, where I’ve deepened my knowledge of Theoretical Statistics, Probability Theory and Stochastic Calculus and paired that with much more applied courses, with a particular focus on Biostatistics, Medical Statistics and Causal Inference.
 Thanks to the Erasmus exchange program, I've spent a semester at the Katholieke Universiteit in Leuven, Belgium, where I’ve worked on my Master’s Thesis under the supervision of Prof. Irene Gijbels.
 

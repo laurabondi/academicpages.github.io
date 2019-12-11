@@ -11,12 +11,17 @@ redirect_from:
 Laura Bondi
 ======
 
+I'm a PhD student in Statistis at Bocconi University in Milan, Italy. My supervisor is Professor Marco Bonetti(http://faculty.unibocconi.it/marcobonetti/). My current research interests include Biostatistics, High-Dimensional and Complex Data and Survival Analysis, with a particular focus on applications to real world problems.
+
 
 Research Interests
 ------
-*
-* 
-* 
+* Medical Statistics
+* Statistics in Cancer Research
+* Public Health Data Analysis
+* Survival Analysis
+* Approximate Bayesian Computation
+
 
 Current Projects
 ------

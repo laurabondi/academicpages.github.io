@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Laura Bondi
-======
-
 I'm a PhD student in Statistics at Bocconi University in Milan, Italy. My supervisor is Professor [Marco Bonetti](http://faculty.unibocconi.it/marcobonetti/). I'm currently working on statistical models for the natural history of breast cancer, using mammography screening data.  My research interests lie in Medical Statistics and Survival Analysis, with a particular focus on Public Health Data Analysis and Cancer Research.
 
 Previously, I've studied at Padua University in Italy.

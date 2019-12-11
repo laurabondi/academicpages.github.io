@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Statistics at Bocconi University in Milan, Italy. My supervisor is Professor [Marco Bonetti](http://faculty.unibocconi.it/marcobonetti/). I'm currently working on statistical models for the natural history of breast cancer, using mammography screening data.  My research interests lie in Medical Statistics and Survival Analysis, with a particular focus on Public Health Data Analysis and Cancer Research.
+I'm a PhD student in Statistics at Bocconi University in Milan, Italy. My supervisor is Professor [Marco Bonetti](http://didattica.unibocconi.eu/docenti/cv.php?rif=50573). I'm currently working on statistical models for the natural history of breast cancer, using mammography screening data.  My research interests lie in Medical Statistics and Survival Analysis, with a particular focus on Public Health Data Analysis and Cancer Research.
 
 Previously, I've studied at Padua University in Italy.
 I've completed a Bachelor in Mathematics which gave me a solid quantitative background. However, it was always clear to me that, despite the highly theoretical nature of the program, real world applications and data was what I enjoyed the most.

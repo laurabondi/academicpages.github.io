@@ -22,7 +22,7 @@ Research Interests
 * Statistics in Cancer Research
 * Public Health Data Analysis
 * Survival Analysis
-* Approximate Bayesian Computation
+
 
 
 Current Projects

@@ -13,6 +13,7 @@ author_profile: true
 A.A. 2019-2020
 * [Advanced Mathematics and Statistics](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2020&cod_ins=30408), Bachelor course, in English.
 * [Statistics](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30001&anno=2020&ric_cdl=TR01&IdPag=6203), Bachelor course, in Italian.
+* [Mathematics](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30062&anno=2020&IdPag=6203), Bachelor course, in Italian.
 
 
 A.A. 2018-2019

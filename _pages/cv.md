@@ -16,7 +16,7 @@ Education
 ======
 * B.S. in Mathematics, Padua University, 2014
 * M.S. in Statistics, Padua University, 2017
-* Ph.D in Statistics, Bocconi University (Milan), 2021 (expected)
+* Ph.D in Statistics, Bocconi University, 2021 (expected)
 
 Work experience
 ======

@@ -26,7 +26,7 @@ Work experience
 
 Teaching
 ======
- * Fall 2018-Spring 2020: Teaching Assistant
+* Fall 2018-Spring 2020: Teaching Assistant
   * Bocconi University
   * Duties included: Exercise sessions for bachelor courses in Statistics and Probability
   

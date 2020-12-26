@@ -23,7 +23,3 @@ Research Interests
 
 
 
-Current Projects
-------
-1. Statistical models for the natural history of breast cancer using mammography screening data (Joint work with M. Bonetti, D. Grigorova, A. Russo)
-2. Insights in the use of blackbox emulators using partial dependence functions (Joint work with E. Borgonovo, R. Hahn and E. Plischke)

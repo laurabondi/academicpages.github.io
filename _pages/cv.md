@@ -14,9 +14,9 @@ The following is a non-detailed version of my CV.
 
 Education
 ======
-* B.S. in Mathematics, Padua University, 2014
-* M.S. in Statistics, Padua University, 2017
-* Ph.D in Statistics, Bocconi University, 2021 (expected)
+* B.Sc. in Mathematics, Padua University, 2014
+* M.Sc. in Statistics, Padua University, 2017
+* Ph.D. in Statistics, Bocconi University, 2021 (expected)
 
 Work experience
 ======
@@ -26,7 +26,7 @@ Work experience
 
 Teaching
 ======
-* Fall 2018-Spring 2020: Teaching Assistant
+* Fall 2018-Spring 2021: Teaching Assistant
   * Bocconi University
   * Duties included: Exercise sessions for bachelor courses in Statistics and Probability
   

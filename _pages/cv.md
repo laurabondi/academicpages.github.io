@@ -14,7 +14,7 @@ The following is a non-detailed version of my CV.
 
 Work experience
 ======
-* September 2021 - Ongoing: Research Assistant
+* September 2021 - Ongoing: Postdoctoral Researcher
   * MRC Biostatistics Unit, University of Cambridge (UK)
   * Precision Medicine and Inference for Complex Outcomes group (PREM)
   * Supervisor: Dr Brian Tom

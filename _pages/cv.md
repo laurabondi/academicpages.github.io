@@ -15,19 +15,19 @@ The following is a non-detailed version of my CV.
 Work experience
 ======
 * September 2021 - Ongoing: Research Assistant
-  * MRC Biostatistics Unit, University of Cambridge
+  * MRC Biostatistics Unit, University of Cambridge (UK)
   * Precision Medicine and Inference for Complex Outcomes group (PREM)
   * Supervisor: Dr Brian Tom
 
 * Spring 2017: Visiting Research Assistant
-  * Department of Mathematics - Statistics Section, KU Leuven
+  * Department of Mathematics - Statistics Section, KU Leuven (Belgium)
   * Supervisor: Professor Irene Gijbels
 
 Education
 ======
-* B.Sc. in Mathematics, Padua University, 2014
-* M.Sc. in Statistics, Padua University, 2017
-* Ph.D. in Statistics, Bocconi University, 2022 (expected)
+* B.Sc. in Mathematics, Padua University (Italy), 2014
+* M.Sc. in Statistics, Padua University (Italy), 2017
+* Ph.D. in Statistics, Bocconi University (Italy), 2022 (expected)
   * Advisor: Professor Marco Bonetti
 
 Teaching

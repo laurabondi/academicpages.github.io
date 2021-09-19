@@ -25,10 +25,10 @@ Work experience
 
 Education
 ======
-* B.Sc. in Mathematics, Padua University (Italy), 2014
-* M.Sc. in Statistics, Padua University (Italy), 2017
 * Ph.D. in Statistics, Bocconi University (Italy), 2022 (expected)
   * Advisor: Professor Marco Bonetti
+* M.Sc. in Statistics, Padua University (Italy), 2017
+* B.Sc. in Mathematics, Padua University (Italy), 2014
 
 Teaching
 ======

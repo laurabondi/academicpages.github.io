@@ -15,7 +15,7 @@ I am part of the "STEpUP OA" collaboration, led by the Kennedy Institute at Oxfo
 I'm a PhD candidate in Statistics at Bocconi University in Milan, Italy. My supervisor is [Prof. Marco Bonetti](http://didattica.unibocconi.eu/docenti/cv.php?rif=50573). My PhD thesis focuses on likelihood-free estimation of statistical models for the natural history of breast cancer, using mammography screening data. I am supposed to formally defend my thesis and achieve the PhD title in January 2022.
 
 Previously, I've obtained a Bachelor in Mathematics and then a Master in Statistics, both at Padua University in Italy, and
-I've spent a semester as an Erasmus student at KU Leuven, Belgium, where I’ve worked on my Master’s Thesis "Kernel estimation of quantile regression curves using copula modeling" under the supervision of Professor Irène Gijbels.
+I've spent a semester as an Erasmus student at KU Leuven, Belgium, where I’ve worked on my Master’s Thesis "Kernel estimation of quantile regression curves using copula modeling" under the supervision of Prof. Irène Gijbels.
 
 
 Research Interests

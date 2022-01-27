@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Laura Bondi"
 title_separator          : "-"
 name                     : &name "Laura Bondi"
-description              : &description "PhD Student in Statistics"
+description              : &description "Research Associate in Biostatistics"
 url                      : https://laurabondi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "laurabondi/laurabondi.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Laura Bondi"
   avatar           : "profile2.jpg"
-  bio              : "PhD student in Statistics"
-  location         : "Bocconi University, Milan"
+  bio              : "Research Associate in Biostatisticss"
+  location         : "MRC Biostatistics Unit, University of Cambridge"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "laura.bondi@phd.unibocconi.it"
+  email            : "laura.bondi@mrc-bsu.cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

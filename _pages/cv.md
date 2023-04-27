@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-{% include base_path %} Full CV available [here](/files/cv_Bondi.pdf)
+{% include base_path %} Full CV available [here](/files/CV_Bondi.pdf)
 
 The following is a non-detailed version of my CV.
 
@@ -29,6 +29,10 @@ Education
   * Advisor: Prof. Marco Bonetti
 * M.Sc. in Statistics cum laude, Padua University (Italy), 2017
 * B.Sc. in Mathematics, Padua University (Italy), 2014
+
+Awards
+======
+* Premio Maria Chiara Magri
 
 Teaching
 ======

@@ -13,7 +13,7 @@ author_profile: true
 
 **Articles on Peer-Review Journals**
 
-* Bondi L., Bonetti M., Grigorova, D. & Russo, A. (2023). Approximate Bayesian computation for the natural history of breast cancer. Statistics in Medicine, 21(1). [Open access pdf here](https://doi.org/10.1002/sim.9756), [Mock data and R code examples here](/files/ABC_BREAST_CANCER_Bondi_et_al.zip).
+* Bondi L., Bonetti M., Grigorova, D. & Russo, A. (2023). Approximate Bayesian computation for the natural history of breast cancer, with application to data from a Milan cohort study. Statistics in Medicine, 21(1). [Open access pdf here](https://doi.org/10.1002/sim.9756), [Mock data and R code examples here](/files/ABC_BREAST_CANCER_Bondi_et_al.zip).
 
 **PhD Thesis**
 * Bondi L. (2022) Statistical models for the natural history of breast cancer. PhD thesis. Bocconi University. [Pdf here](https://github.com/laurabondi/laurabondi.github.io/files/11531050/PhD_Thesis_FINAL.pdf).

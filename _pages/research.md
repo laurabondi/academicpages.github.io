@@ -7,6 +7,7 @@ redirect_from:
   - /research/
   - /research.html
 ---
+{% include base_path %}
 
 {% if author.googlescholar %}
   You can also find my articles on [Google Scholar](https://scholar.google.it/citations?view_op=list_works&hl=it&hl=it&user=wOecf5QAAAAJ).

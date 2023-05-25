@@ -6,9 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-{% if author.googlescholar %}
-  You can also find my articles on [Google Scholar](https://scholar.google.it/citations?view_op=list_works&hl=it&hl=it&user=wOecf5QAAAAJ).
-{% endif %}
+You can also find my articles on [Google Scholar](https://scholar.google.it/citations?view_op=list_works&hl=it&hl=it&user=wOecf5QAAAAJ).
 
 
 **Articles on Peer-Reviewed Journals**
@@ -19,7 +17,7 @@ author_profile: true
 * Bondi L. (2022) Statistical models for the natural history of breast cancer. PhD thesis. Bocconi University. [Pdf here](https://github.com/laurabondi/laurabondi.github.io/files/11531050/PhD_Thesis_FINAL.pdf).
 
 **Conference Proceedings**
-* Bondi L, Bonetti M, Hofvind S (2023). A model for the natural history of breast cancer: application to Norwegian screening data. To appear on the 2023 Book of Short Papers of the Italian Statistical Society. [Pdf here](https://github.com/laurabondi/laurabondi.github.io/files/A_model_for_the_natural_history_of_breast_cancer__application_to_a_Norwegian_screening_dataset___Short_paper_SIS_2023.pdf).
+* Bondi L, Bonetti M, Hofvind S (2023). A model for the natural history of breast cancer: application to Norwegian screening data. To appear on the 2023 Book of Short Papers of the Italian Statistical Society. [Pdf here](https://github.com/laurabondi/laurabondi.github.io/blob/master/files/A_model_for_the_natural_history_of_breast_cancer__application_to_a_Norwegian_screening_dataset___Short_paper_SIS_2023.pdf)).
 * Bondi L, Bonetti M, Piccarreta R (2022). An exploration of Approximate Bayesian Computation (ABC) and dissimilarities. Book of Short Papers of the Italian Statistical Society. P. 1046-1051. [Open access pdf here](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf).
 
 

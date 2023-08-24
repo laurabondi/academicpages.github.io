@@ -32,7 +32,8 @@ Education
 
 Awards
 ======
-* Premio Maria Chiara Magri
+* Winner of the "Maria Chiara Magri prize": \url{https://epiprev.it/page/premio-maria-chiara-magri}
+* Recipient of the ISBA Junior Travel Award for 2022 ISBA Meeting in Montreal
 
 Teaching
 ======

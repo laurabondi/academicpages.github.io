@@ -19,6 +19,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.it/cita
 **Refereed Conference Proceedings**
 * Bondi L, Bonetti M, Hofvind S (2023). A model for the natural history of breast cancer: application to Norwegian screening data. To appear on the 2023 Book of Short Papers of the Italian Statistical Society. [Pdf here](/files/A_model_for_the_natural_history_of_breast_cancer__application_to_a_Norwegian_screening_dataset___Short_paper_SIS_2023.pdf).
 * Bondi L, Bonetti M, Piccarreta R (2022). An exploration of Approximate Bayesian Computation (ABC) and dissimilarities. Book of Short Papers of the Italian Statistical Society. P. 1046-1051. [Open access pdf here](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf).
+* Franzolini B, Bondi L, Fasano A, Rebaudo G (2023). Bayesian forecasting of multivariate longitudinal zero-inflated counts: an application to civil conflict. To appear on the CLADAG 2023 Book of Short Papers.
 
 
 **Working papers**

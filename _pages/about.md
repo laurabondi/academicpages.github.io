@@ -20,11 +20,16 @@ I've spent a semester as an Erasmus student at KU Leuven, Belgium.
 
 Research Interests
 ------
-* Medical Statistics
+* Disease History Models
 * Precision Medicine
-* Bayesian Clustering
+* Proteomic Data
 * Statistics in Cancer Research
 * Public Health Data Analysis
+* Bayesian Clustering
+* Likelihood-free Inference
+* Dimensionality Reduction
+* Variable Selection
+
 
 
 

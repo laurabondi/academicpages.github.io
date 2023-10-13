@@ -40,6 +40,9 @@ Teaching
 * Fall 2018-Spring 2021: Teaching Assistant
   * Bocconi University
   * Duties included: Exercise sessions for bachelor courses in Statistics and Probability
+* Fall 2023: Teaching Assistant
+  * Cambridge University
+  * Tutoring sessions for the MPhil course in Applied Data Analysis    
   
 Skills
 ======

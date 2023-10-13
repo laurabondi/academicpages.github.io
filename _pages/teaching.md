@@ -10,7 +10,7 @@ author_profile: true
 **Teaching assistant** at Cambridge University:
 
 A.Y 2023-2024
-*Applied Data Analysis, Course in the MPhil programme in [Population Health Sciences](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphmpphs), in English.
+* Applied Data Analysis, Course in the MPhil programme in [Population Health Sciences](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphmpphs), in English.
 
 
 **Teaching assistant** at Bocconi University:

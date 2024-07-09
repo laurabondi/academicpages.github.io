@@ -11,7 +11,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.it/cita
 
 **Articles on Peer-Reviewed Journals**
 
-* L Bondi, M Pagano, M Bonetti (2024). The sparsity index in Poisson size-biased sampling: algorithms for the optimal unbiased estimation from small samples. Statistics and Probability Letters. In press.
+* Bondi L, Pagano M, Bonetti M (2024). The sparsity index in Poisson size-biased sampling: algorithms for the optimal unbiased estimation from small samples. Statistics and Probability Letters. In press.
 
 * Bondi L, Bonetti M, Grigorova, D & Russo, A (2023). Approximate Bayesian computation for the natural history of breast cancer, with application to data from a Milan cohort study. Statistics in Medicine, 21(1). [Open access pdf here](https://doi.org/10.1002/sim.9756), [Mock data and R code examples here](/files/ABC_BREAST_CANCER_Bondi_et_al.zip).
 

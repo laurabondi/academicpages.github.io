@@ -11,6 +11,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.it/cita
 
 **Articles on Peer-Reviewed Journals**
 
+* L Bondi, M Pagano, M Bonetti (2024). The sparsity index in Poisson size-biased sampling: algorithms for the optimal unbiased estimation from small samples. Statistics and Probability Letters. In press.
+
 * Bondi L, Bonetti M, Grigorova, D & Russo, A (2023). Approximate Bayesian computation for the natural history of breast cancer, with application to data from a Milan cohort study. Statistics in Medicine, 21(1). [Open access pdf here](https://doi.org/10.1002/sim.9756), [Mock data and R code examples here](/files/ABC_BREAST_CANCER_Bondi_et_al.zip).
 
 **PhD Thesis**
@@ -26,7 +28,6 @@ You can also find my articles on [Google Scholar](https://scholar.google.it/cita
 
 **Working papers**
 
-* L Bondi, M Pagano, M Bonetti (2024). The sparsity index in Poisson size-biased sampling: algorithms for the optimal unbiased estimation from small samples. Under final revision for publication on Statistics and Probability Letters.
 * L Bondi, B Tom, S Richardson et al. (2024+) Outcome-guided profile regression to characterise subtypes of knee osteoarthritis at a proteomic level. Work in progress.
 * Y Deng et al. (2024+) Methodological development of molecular endotype discovery from synovial fluid of individuals with knee osteoarthritis: the STEpUP OA Consortium. medRxiv, 2023.08. 14.23294059
 * TA Perry et al. (2024+) Deconvoluting synovial fluid molecular endotypes in knee osteoarthritis: primary results from the STEpUP OA Consortium. medRxiv, 2024.06. 05.24308485
